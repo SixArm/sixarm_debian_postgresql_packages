@@ -1,0 +1,5 @@
+sixarm-debian-postgresql-packages (1.0.0) stable; urgency=low
+
+  * First commit
+
+ -- Joel Parker Henderson <joel@sixarm.com>  Sat, 12 Mar 2011 12:00:00 +0000
