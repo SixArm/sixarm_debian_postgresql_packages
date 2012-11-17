@@ -1,9 +1,9 @@
 Package: sixarm-debian-postgresql-packages
-Version: 1.0.2
+Version: 1.0.3
 Section: devel
 Priority: optional
 Architecture: all
-Depends: postgresql, postgresql-client, pgadmin3
+Depends: postgresql, postgresql-client, postgresql-server-dev-all, pgadmin3, libpq-dev
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: PostgreSQL packages we like to use
  PostgreSQL packages we like to use together.
